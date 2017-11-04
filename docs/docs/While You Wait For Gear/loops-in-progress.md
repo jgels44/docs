@@ -221,3 +221,4 @@ List of people who are working on closed loops:
 - Tom Beesley (Brighton, UK)
 - Robert Sandvik (Stavanger, Norway)
 - Eugene Girard (Kitchener, Canada)
+- Justin Gels (Columbus, OH, USA) 
